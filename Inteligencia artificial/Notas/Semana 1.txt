@@ -1,0 +1,6 @@
+Capacidades de una inteligencia artificial:
+-Percepción
+-Reconocimiento de patrones
+-Aprendizaje
+-Manejo de conocimiento
+-Raciocinio

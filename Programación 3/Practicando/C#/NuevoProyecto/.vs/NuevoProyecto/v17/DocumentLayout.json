@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pablo\\Documents\\Semestre 2024-2\\Programaci\u00F3n 3\\Practicando\\C#\\NuevoProyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A69FBF-3CF2-4799-AF62-2A37EE69DAED}|SoftDBManagerTest\\SoftDBManagerTest.csproj|c:\\users\\pablo\\documents\\semestre 2024-2\\programaci\u00F3n 3\\practicando\\c#\\nuevoproyecto\\softdbmanagertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A69FBF-3CF2-4799-AF62-2A37EE69DAED}|SoftDBManagerTest\\SoftDBManagerTest.csproj|solutionrelative:softdbmanagertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697EFA7A-D852-4282-8221-1BC2436D2B42}|DBManager\\SoftDBManager.csproj|C:\\Users\\pablo\\Documents\\Semestre 2024-2\\Programaci\u00F3n 3\\Practicando\\C#\\NuevoProyecto\\dbmanager\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697EFA7A-D852-4282-8221-1BC2436D2B42}|DBManager\\SoftDBManager.csproj|solutionrelative:dbmanager\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SoftDBManagerTest||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SoftDBManager||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C878D5-5EE2-4B38-8561-9304771FF4AC}|NuevoProyecto\\NuevoProyecto.csproj|C:\\Users\\pablo\\Documents\\Semestre 2024-2\\Programaci\u00F3n 3\\Practicando\\C#\\NuevoProyecto\\nuevoproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C878D5-5EE2-4B38-8561-9304771FF4AC}|NuevoProyecto\\NuevoProyecto.csproj|solutionrelative:nuevoproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoftDBManager",
+              "DocumentMoniker": "C:\\Users\\pablo\\Documents\\Semestre 2024-2\\Programaci\u00F3n 3\\Practicando\\C#\\NuevoProyecto\\DBManager\\SoftDBManager.csproj",
+              "RelativeDocumentMoniker": "DBManager\\SoftDBManager.csproj",
+              "ToolTip": "C:\\Users\\pablo\\Documents\\Semestre 2024-2\\Programaci\u00F3n 3\\Practicando\\C#\\NuevoProyecto\\DBManager\\SoftDBManager.csproj",
+              "RelativeToolTip": "DBManager\\SoftDBManager.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-16T17:16:38.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoftDBManagerTest",
+              "DocumentMoniker": "C:\\Users\\pablo\\Documents\\Semestre 2024-2\\Programaci\u00F3n 3\\Practicando\\C#\\NuevoProyecto\\SoftDBManagerTest\\SoftDBManagerTest.csproj",
+              "RelativeDocumentMoniker": "SoftDBManagerTest\\SoftDBManagerTest.csproj",
+              "ToolTip": "C:\\Users\\pablo\\Documents\\Semestre 2024-2\\Programaci\u00F3n 3\\Practicando\\C#\\NuevoProyecto\\SoftDBManagerTest\\SoftDBManagerTest.csproj",
+              "RelativeToolTip": "SoftDBManagerTest\\SoftDBManagerTest.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-16T17:16:33.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\Documents\\Semestre 2024-2\\Programaci\u00F3n 3\\Practicando\\C#\\NuevoProyecto\\SoftDBManagerTest\\Program.cs",
+              "RelativeDocumentMoniker": "SoftDBManagerTest\\Program.cs",
+              "ToolTip": "C:\\Users\\pablo\\Documents\\Semestre 2024-2\\Programaci\u00F3n 3\\Practicando\\C#\\NuevoProyecto\\SoftDBManagerTest\\Program.cs",
+              "RelativeToolTip": "SoftDBManagerTest\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:03:05.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\Documents\\Semestre 2024-2\\Programaci\u00F3n 3\\Practicando\\C#\\NuevoProyecto\\DBManager\\DBManager.cs",
+              "RelativeDocumentMoniker": "DBManager\\DBManager.cs",
+              "ToolTip": "C:\\Users\\pablo\\Documents\\Semestre 2024-2\\Programaci\u00F3n 3\\Practicando\\C#\\NuevoProyecto\\DBManager\\DBManager.cs",
+              "RelativeToolTip": "DBManager\\DBManager.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwDwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:25:01.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\Documents\\Semestre 2024-2\\Programaci\u00F3n 3\\Practicando\\C#\\NuevoProyecto\\NuevoProyecto\\Program.cs",
+              "RelativeDocumentMoniker": "NuevoProyecto\\Program.cs",
+              "ToolTip": "C:\\Users\\pablo\\Documents\\Semestre 2024-2\\Programaci\u00F3n 3\\Practicando\\C#\\NuevoProyecto\\NuevoProyecto\\Program.cs",
+              "RelativeToolTip": "NuevoProyecto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:20:25.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

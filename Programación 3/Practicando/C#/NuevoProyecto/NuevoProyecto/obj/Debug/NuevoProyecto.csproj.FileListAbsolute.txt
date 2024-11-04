@@ -1,0 +1,7 @@
+C:\Users\pablo\Documents\Semestre 2024-2\Programación 3\Practicando\C#\NuevoProyecto\NuevoProyecto\bin\Debug\NuevoProyecto.exe.config
+C:\Users\pablo\Documents\Semestre 2024-2\Programación 3\Practicando\C#\NuevoProyecto\NuevoProyecto\bin\Debug\NuevoProyecto.exe
+C:\Users\pablo\Documents\Semestre 2024-2\Programación 3\Practicando\C#\NuevoProyecto\NuevoProyecto\bin\Debug\NuevoProyecto.pdb
+C:\Users\pablo\Documents\Semestre 2024-2\Programación 3\Practicando\C#\NuevoProyecto\NuevoProyecto\obj\Debug\NuevoProyecto.csproj.AssemblyReference.cache
+C:\Users\pablo\Documents\Semestre 2024-2\Programación 3\Practicando\C#\NuevoProyecto\NuevoProyecto\obj\Debug\NuevoProyecto.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\Semestre 2024-2\Programación 3\Practicando\C#\NuevoProyecto\NuevoProyecto\obj\Debug\NuevoProyecto.exe
+C:\Users\pablo\Documents\Semestre 2024-2\Programación 3\Practicando\C#\NuevoProyecto\NuevoProyecto\obj\Debug\NuevoProyecto.pdb

@@ -1,0 +1,7 @@
+{
+	"base_de_datos": "soft_pub_test",
+	"nombre_del_host": "localhost",
+	"puerto": "3306",
+	"usuario": "root",
+	"contrasena": "510pisto8"
+}

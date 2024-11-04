@@ -1,0 +1,3 @@
+public enum EstadoDeAtencion{
+	PROGRAMADA, CONFIRMADA, CANCELADA, EN_CURSO, COMPLETADA
+}
