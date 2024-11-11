@@ -1,0 +1,8 @@
+javac pe/edu/pucp/eventmastersoft/contratos/model/*.java
+jar cf eventmastersoftContratosModel.jar pe/edu/pucp/eventmastersoft/contratos/model/*.class
+javac pe/edu/pucp/eventmastersoft/logistica/model/*.java
+jar cf eventmastersoftLogisticaModel.jar pe/edu/pucp/eventmastersoft/logistica/model/*.class
+javac -cp eventmastersoftContratosModel.jar;eventmastersoftLogisticaModel.jar pe/edu/pucp/eventmastersoft/gestion/model/*.java
+jar cf eventmastersoftGestionModel.jar pe/edu/pucp/eventmastersoft/gestion/model/*.class
+javac -cp eventmastersoftContratosModel.jar;eventmastersoftLogisticaModel.jar;eventmastersoftGestionModel.jar; pe/edu/pucp/eventmastersoft/program/main/*.java
+jar cfm eventmastersoftPrincipal.jar MANIFEST.MF pe/edu/pucp/eventmastersoft/program/main/*.class
