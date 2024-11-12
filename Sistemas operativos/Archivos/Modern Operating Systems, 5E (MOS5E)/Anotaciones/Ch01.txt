@@ -1,0 +1,7 @@
+Dos funciones básicas del sistema operativo:
+    - Brindar buenas abstracciones para el desarrollo de aplicaciones
+    - Manejar y controlar el hardware
+
+Multiplexaje (compartir) recursos de dos tipos:
+    - De tiempo
+    - De espacio
